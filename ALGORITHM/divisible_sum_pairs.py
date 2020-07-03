@@ -33,3 +33,6 @@ if __name__ == '__main__':
     fptr.write(str(result) + '\n')
 
     fptr.close()
+
+
+# https://www.hackerrank.com/challenges/divisible-sum-pairs/forum
