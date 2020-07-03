@@ -39,3 +39,7 @@ if __name__ == '__main__':
     fptr.write(str(result) + '\n')
 
     fptr.close()
+
+
+
+# link : https://www.hackerrank.com/challenges/migratory-birds/forum
